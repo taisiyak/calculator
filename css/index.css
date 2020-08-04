@@ -1,0 +1,37 @@
+.cont {
+    width: 168px;
+    height: 210px;
+    text-align: center;
+}
+.display {
+    width: 156px;
+    height: 25px;
+    padding: 0px;
+    margin: 2px;
+}
+.dig {
+    margin: 1px;
+    width: 35px;
+    height: 35px;
+
+}
+.eq {
+    margin: 1px;
+    width: 35px;
+    height: 35px;
+}
+.dot {
+    margin: 1px;
+    width: 35px;
+    height: 35px;
+}
+.clean {
+    margin: 1px;
+    width: 35px;
+    height: 35px;
+}
+.deldigit {
+    margin: 1px;
+    width: 35px;
+    height: 35px;
+}
